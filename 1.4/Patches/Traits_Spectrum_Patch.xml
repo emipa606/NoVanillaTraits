@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/TraitDef[defName="SpeedOffset" or defName="DrugDesire" or defName="NaturalMood" or defName="Nerves" or defName="Neurotic" or defName="Industriousness" or defName="PsychicSensitivity" or defName="ShootingAccuracy" or defName="Beauty" or defName="Immunity"]/commonality</xpath>
+        <value>
+          <commonality>0</commonality>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

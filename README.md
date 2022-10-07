@@ -1,6 +1,6 @@
 # NoVanillaTraits
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 
 Just a simple patch-mod that sets all vanilla traits to commonality 0. 
@@ -13,16 +13,14 @@ Defs are still there as there are some backstories that forces some traits.
 Will give errors that commonality is set to 0 if Develpoment mode is active, this can be ignored.
 Game will not load map if there are no added traits loaded as it will not be able to generate pawns.
 
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/NoVanillaTraits]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
+![Image](https://i.imgur.com/O0IIlYj.png)
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.
+
+https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
+
+
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -32,6 +30,7 @@ Game will not load map if there are no added traits loaded as it will not be abl
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
