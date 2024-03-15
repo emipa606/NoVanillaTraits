@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/TraitDef[defName="Nudist" or defName="Bloodlust" or defName="Kind" or defName="Cannibal" or defName="Masochist" or defName="NightOwl" or defName="Ascetic" or defName="Gay" or defName="Bisexual" or defName="Asexual" or defName="AnnoyingVoice" or defName="CreepyBreathing" or defName="Pyromaniac" or defName="Undergrounder" or defName="Transhumanist" or defName="BodyPurist" or defName="DislikesMen" or defName="DislikesWomen" or defName="GreatMemory" or defName="Tough" or defName="TorturedArtist" or defName="Gourmand"]/commonality</xpath>
+        <value>
+          <commonality>0</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/TraitDef[defName="Psychopath" or defName="Abrasive" or defName="TooSmart" or defName="Brawler" or defName="Greedy" or defName="Jealous" or defName="Wimp" or defName="Nimble" or defName="FastLearner" or defName="SlowLearner" or defName="QuickSleeper"]</xpath>
+        <value>
+          <commonality>0</commonality>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
